@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Hurones la mejor mascota</title>
+
+</head>
+
+<body>
+
+<h1 style="color: #f6836b; text-align: center ;">Hurones la mascota perfecta </h1>
+
+<br><br><br><br><br>
+
+<h2 style="color:blue;text-align: right;">Que son los hurones </h2>
+
+<p style="color:#fcff5d">Los<strong>hurones</strong> son pequeños mamíferos carnívoros pertenecientes a la familia Mustelidae. Son conocidos por su agilidad y su naturaleza curiosa, lo que los convierte en mascotas muy populares. Generalmente, los hurones tienen un cuerpo largo y flexible, con un pelaje suave que puede variar en color, y son famosos por su comportamiento juguetón y su capacidad para escabullirse en espacios pequeños. Estos animales son omnivoros, lo que significa que pueden comer tanto carne como algunos alimentos vegetales, aunque su dieta principal está compuesta por proteínas animales.</p>
+
+<img style="width :40% ; height: 70% ;"src="https://cdn.shopify.com/s/files/1/0046/1592/9946/files/Captura_de_pantalla_2020-09-16_a_las_10.12.53_480x480.png?v=1600244059" ;>
+
+<p style="color:#fcff5d">Los <strong>hurones domésticos</strong> suelen tener una esperanza de vida de 6 a 10 años, y requieren cuidados específicos, como un ambiente adecuado para su actividad y una dieta balanceada. Son animales muy sociables, pero también necesitan estimulación mental y ejercicio regular para evitar el aburrimiento, ya que tienden a ser muy inquietos. Además, aunque son excelentes mascotas, es importante recordar que los hurones deben estar en un entorno seguro, ya que tienen la tendencia de escapar y explorar cualquier rincón al que puedan acceder.</p>
+
+<img style="width :40% ; height: 70% ;"src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggtsqF_zz12xVvOStwImuGCl9rU9HRPQcuvvb6aQmwVuWEbuh5iYCvowcNnLowJUN6ofjeXDaMYWp7vfG5rkqErBrCK21oE1BDXw9BMnJ9rYafDN-awj3nNn6bS5yddyVg-NywjVZZjg8/s1600/huron-7991.jpeg" ;>
+
+<h3 style="color:blue;text-align: right;">Porque los hurones sonlas mascotas perfectas</h3>
+
+<p style="color:#fcff5d">Los <strong>hurones<strong> son considerados una de las mascotas más divertidas y estimulantes que se pueden tener. Son animales extremadamente<strong> juguetones<strong>, curiosos y sociales, lo que los convierte en compañeros ideales para quienes buscan una mascota activa y entretenida. A pesar de su tamaño pequeño, tienen una gran personalidad y disfrutan de la interacción constante con sus dueños, creando un lazo fuerte con ellos. Además, los hurones son fáciles de cuidar, ya que no requieren grandes espacios para vivir, y se pueden adaptar bien a diferentes tipos de hogares, siempre que se les proporcione un entorno seguro y enriquecido.</p>
+
+<img style="width :40% ; height: 70% ;"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4myAQlTawzSCqw6o78__6VawhWXoFDzWWsw&s" ;>
+<p style="color:#fcff5d">Otro aspecto importante es que los <strong>hurones<strong> son <strong>fáciles de cuidar<strong> y no requieren grandes espacios para vivir, adaptándose bien a distintos tipos de hogares. Con una alimentación adecuada y un ambiente seguro, pueden tener una vida larga y saludable, alcanzando hasta 10 años de edad. Además, necesitan estimulación mental y ejercicio, lo que no solo los beneficia a ellos, sino que también fortalece la relación con sus dueños. En resumen, los hurones son la mascota perfecta para quienes buscan compañía, diversión y cariño en un solo animal</p>
+<img style="width:40%;height:70%;"src="https://img.europapress.es/fotoweb/fotonoticia_20141117170037_1200.jpg";>
+<h4 style="color:blue;text-align: right;">Lo mejor de cuidar Hurones </h4>
+<p style="color:#fcff5d">Cuidar hurones puede ser <strong>relativamente fácil si se conocen sus necesidades básicas<strong>. Estos animales requieren una jaula segura, una dieta equilibrada rica en proteínas y tiempo diario para salir a explorar y jugar. Aunque no necesitan paseos como los perros, sí exigen atención y estimulación mental. <strong>Mantener su higiene, como limpiar su jaula y cortar sus uñas, es sencillo pero debe hacerse con regularidad<strong>. Además, los hurones necesitan visitas periódicas al veterinario, especialmente para vacunaciones y chequeos generales.</p>
+<img style="width:50%;height:80%;" src="https://static.vecteezy.com/system/resources/thumbnails/054/212/569/small/a-ferret-eating-from-a-purple-bowl-in-a-flower-filled-garden-photo.jpg";>
+<p style="color:#fcff5d">Tener un hurón como mascota puede aportar <strong> grandes beneficios emocionales y sociales <strong>. Son animales muy curiosos, juguetones y afectuosos, lo que los convierte en excelentes compañeros para quienes buscan una mascota activa y cariñosa. <strong>Su comportamiento divertido y su inteligencia hacen que interactuar con ellos sea una experiencia única y entretenida<strong>. Además, pueden ayudar a reducir el estrés y mejorar el estado de ánimo de sus dueños gracias a su energía positiva y su vínculo con las personas.<p>
+<img style="width:40%;height:70%;"src="https://hospitalveterinariobenipeixcar.es/wp-content/uploads/2025/01/hurones-como-mascotas-consideraciones-legales-y-eticas-esenciales-que-debes-conocer.webp";>
+<h1 style="color: #f6836b; text-align: center ;">Gacias por ver :3</h1>
+</body>
+
+</html>
